@@ -1,0 +1,5 @@
+title: "ILM / علم – Integrative Linguistic Multiscript"
+description: "A layered, open-source effort for phonetically accurate, reversible, culturally respectful language tooling across world scripts."
+theme: minima
+markdown: kramdown
+permalink: pretty
