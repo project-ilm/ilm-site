@@ -1,5 +1,38 @@
-body { font-family: sans-serif; max-width: 800px; margin: auto; padding: 2em; background: #fefefe; color: #222; }
+body {
+  font-family: sans-serif;
+  max-width: 800px;
+  margin: auto;
+  padding: 2em;
+  background: #fefefe;
+  color: #222;
+}
 a { color: #0366d6; text-decoration: none; }
 a:hover { text-decoration: underline; }
 header h1 { margin-bottom: 0.1em; }
 footer { margin-top: 2em; text-align: center; font-size: 0.9em; color: #666; }
+
+[lang="ur"] {
+  font-family: "Noto Nastaliq Urdu", "Noto Naskh Arabic", serif;
+  direction: rtl;
+  text-align: right;
+  font-size: 1.2em;
+}
+
+[lang="ur-deva"] {
+  font-family: "Noto Sans Devanagari", serif;
+  direction: ltr;
+  font-size: 1.2em;
+}
+
+[lang="pa"] {
+  font-family: "Noto Nastaliq Urdu", serif;
+  direction: rtl;
+  text-align: right;
+  font-size: 1.2em;
+}
+
+[lang="pa-guru"] {
+  font-family: "Noto Sans Gurmukhi", serif;
+  direction: ltr;
+  font-size: 1.2em;
+}

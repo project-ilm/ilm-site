@@ -19,3 +19,27 @@ A multi-layered linguistic infrastructure spanning:
 - [Validation](https://github.com/project-ilm/ilm-validation)
 - [Devtools](https://github.com/project-ilm/ilm-devtools)
 - [Corpus & Data](https://github.com/project-ilm/ilm-data)
+
+---
+
+## Urdu Message
+
+<div lang="ur">
+  علم، امن، اور فہم کی روشنی سب کے لیے۔
+</div>
+
+<div lang="ur-deva">
+  इल्म, अम्न, और फ़हम की रौशनी सब के लिए।
+</div>
+
+---
+
+## Punjabi Message
+
+<div lang="pa">
+  علم، سکھی، تے سمجھ سبھ لئی۔
+</div>
+
+<div lang="pa-guru">
+  ਇਲਮ, ਸਖ਼ੀ, ਤੇ ਸਮਝ ਸਭ ਲਈ।
+</div>
